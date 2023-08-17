@@ -1,0 +1,44 @@
+* {
+    margin: 5px;
+    padding: 0px;
+}
+
+body {
+    background-color: #B22222;
+}
+.box1 {
+    text-aling: center;
+    display: flex;
+    justify-content: flex-start;
+    aling-items: center;
+    padding: 5px;
+    font-size:25px;
+   
+}
+
+.cabecalho {
+   display: flex;
+   justify-content: center;
+   color: white;
+   padding: 2px;
+}
+
+
+.box2 {
+    text-aling: center;
+    display: flex;
+    justify-content: flex-start;
+    aling-items: center;
+    padding: 0px;
+    font-size:25px;
+}
+
+
+.box3 {
+    text-aling: center;
+    display: flex;
+    justify-content: flex-start;
+    aling-items: center;
+    padding: 0px;
+    font-size:25px;
+}
