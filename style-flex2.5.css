@@ -78,3 +78,9 @@ h1{
     align-items: center;
     margin: 0;
 }
+
+.creditos {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #F7F1DF
+}
