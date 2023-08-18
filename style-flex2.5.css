@@ -67,7 +67,7 @@ h1{
 .box4 {
     text-align: center;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     padding: 0px;
     font-size: 25px;
 }
@@ -80,7 +80,9 @@ h1{
 }
 
 .creditos {
-    width: 200px;
-    height: 200px;
-    border: 2px solid #F7F1DF
+    width: 400px;
+    height: 300px;
+    border: 3px solid #1D858C;
+    background-color: #F7F1DF;
+    font-size: 27px;
 }
