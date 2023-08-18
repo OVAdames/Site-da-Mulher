@@ -86,7 +86,7 @@ h1{
 
 .creditos {
     width: 400px;
-    height: 300px;
+    height: 300px auto;
     border: 3px solid #1D858C;
     background-color: #F7F1DF;
     font-size: 27px;
