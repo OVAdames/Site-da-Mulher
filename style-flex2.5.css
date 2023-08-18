@@ -8,6 +8,11 @@ body {
     background-color: #24C7B1;
 }
 
+.container2 {
+    max-width: 1366px;
+    margin: 0px auto;
+}
+
 h1{
     color:#F7F1DF;
     font-size: 40px;
