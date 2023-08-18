@@ -1,0 +1,73 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-color: #24C7B1;
+}
+
+h1{
+    color:#F7F1DF;
+    font-size: 40px;
+}
+
+.planilha{
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+}
+
+.box1 {
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px;
+    font-size: 30px;
+}
+
+.morte {
+    display: flex;
+    justify-content: flex-end;
+    align-items: top;
+    font-size: 30px;
+}
+
+.box2 {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0px;
+    font-size: 24px; 
+}
+
+.box3 {
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.trabalho {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0px;
+    font-size: 24px;
+}
+
+.reconhecimento {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0px;
+    font-size: 24px;
+}
+
+.box4 {
+    text-align: center;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px;
+    font-size: 25px;
+}
