@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #24C7B1;
+    background-color: #a00f22;
 }
 
 .container2 {
@@ -14,7 +14,7 @@ body {
 }
 
 h1{
-    color:#F7F1DF;
+    color:#ffd700;
     font-size: 40px;
 }
 
@@ -87,7 +87,8 @@ h1{
 .creditos {
     width: 400px;
     height: 300px auto;
-    border: 3px solid #1D858C;
-    background-color: #F7F1DF;
+    border: 10px solid #6b0512;
+    border-radius: 10px;
+    background-color: #fde9ab;
     font-size: 27px;
 }
