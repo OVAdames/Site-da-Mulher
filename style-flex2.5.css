@@ -85,10 +85,15 @@ h1{
 }
 
 .creditos {
+
     width: 400px;
     height: 300px auto;
     border: 10px solid #6b0512;
     border-radius: 10px;
     background-color: #fde9ab;
     font-size: 27px;
+}
+.nomes {
+    text-align: end;
+    font-size: 20px;
 }
